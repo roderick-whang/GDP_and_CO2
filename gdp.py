@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib as plt
+
 df=pd.read_csv("https://media.githubusercontent.com/media/nickeubank/MIDS_Data/master/World_Development_Indicators/wdi_small_tidy_2015.csv")
 
 
